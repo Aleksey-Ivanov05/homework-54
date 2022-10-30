@@ -1,0 +1,17 @@
+.Cell {
+    background: dimgrey;
+    color: dimgrey;
+    margin-bottom: 1px;
+    width: 16%;
+    height: 16%;
+    display: flex;
+}
+
+.Cell-white {
+    background: #fff;
+}
+
+.o {
+    line-height: 1;
+    margin: 0 auto;
+}
